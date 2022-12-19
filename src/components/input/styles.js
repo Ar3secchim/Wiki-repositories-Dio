@@ -5,7 +5,7 @@ export const InputContainer = styled.div`
   border-radius: 22px;
 
   height: 42px;
-  width:60%;
+  width:100%;
   margin-top: 2rem;
 
   input{
